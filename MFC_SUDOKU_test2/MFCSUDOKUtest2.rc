@@ -1,0 +1,504 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(65001)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+#include "verrsrc.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 日本語 (日本) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)
+LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "#include ""verrsrc.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)\r\n"
+    "LANGUAGE 17, 1\r\n"
+    "#include ""res\\MFCSUDOKUtest2.rc2""  // Microsoft Visual C++ 鬯ｮ・｣雎郁ｲｻ・ｽ・ｼ陞滂ｽｲ繝ｻ・ｽ繝ｻ・ｽ郢晢ｽｻ繝ｻ・･鬯ｮ・ｯ隶灘･・ｽｽ・ｻ髦ｮ蜊搾ｽｧ鬩搾ｽｵ繝ｻ・ｲ髯晢ｽｶ隴擾ｽｴ繝ｻ繝ｻ・ｹ譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｨ鬯ｯ・ｯ繝ｻ・ｮ郢晢ｽｻ繝ｻ・ｮ鬩幢ｽ｢隴趣ｽ｢繝ｻ・ｽ繝ｻ・ｻ驛｢譎｢・ｽ・ｻ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｹ郢晢ｽｻ繝ｻ・ｧ鬮ｯ貅ｷ萓帙・・ｨ繝ｻ・ｯ鬮ｯ讖ｸ・ｽ・ｺ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｪ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｽ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｼ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｹ\r\n"
+    "#include ""l.JPN\\afxres.rc""      // 鬯ｮ・ｫ繝ｻ・ｶ髴難ｽ｣陋滂ｽ｡繝ｻ・ｶ隲帷ｿｫ繝ｻ郢晢ｽｻ繝ｻ・ｺ鬮ｫ・ｰ髮具ｽｻ繝ｻ・ｽ繝ｻ・ｶ鬩搾ｽｵ繝ｻ・ｺ髫ｲ・ｷ陋ｹ繝ｻ・ｽ・ｽ繝ｻ・ｹ髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢髫ｴ蠑ｱ繝ｻ繝ｻ・ｺ繝ｻ・｢鬩幢ｽ｢隴趣ｽ｢繝ｻ・ｽ繝ｻ・ｻ鬯ｩ蟷｢・ｽ・｢髫ｴ蜿厄ｽｨ雋ｻ・ｽ・ｺ郢ｧ謇假ｽｽ・ｾ髮懶ｽ｣繝ｻ・ｽ繝ｻ・ｦ鬯ｩ蟷｢・ｽ・｢髫ｴ謫ｾ・ｽ・ｴ驛｢譎｢・ｽ・ｻ\n"
+    "#if !defined(_AFXDLL)\r\n"
+    "#include  ""l.JPN\\afxribbon.rc""   // MFC 鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｪ鬯ｩ蟷｢・ｽ・｢髫ｴ蠑ｱ繝ｻ鬲・ｽｵ郢晢ｽｻ髮懶ｽ｣繝ｻ・ｽ繝ｻ・ｦ鬯ｩ謳ｾ・ｽ・ｵ郢晢ｽｻ繝ｻ・ｺ鬯ｩ諤憺●繝ｻ・ｽ繝ｻ・ｫ驛｢譎｢・ｽ・ｻ鬮｢・ｧ繝ｻ・ｲ郢晢ｽｻ繝ｻ・ｸ郢晢ｽｻ繝ｻ・ｺ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢髫ｴ荳ｻ繝ｻ隶捺ｺ倥・陷ｿ蜴・ｽｽ・ｺ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｹ髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｼ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｫ 鬯ｩ蟷｢・ｽ・｢髫ｴ蟇ゅ・郢晢ｽｻ鬩幢ｽ｢隴趣ｽ｢繝ｻ・ｽ繝ｻ・ｻ 鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｪ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｽ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｼ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｹ\r\n"
+    "#endif\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\MFC_SUDOKU_test2.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 62
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "MFC_SUDOKU_test2 について"
+FONT 9, "MS UI Gothic", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,21,20
+    LTEXT           "MFC_SUDOKU_test2、バージョン 1.0",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2020",IDC_STATIC,42,26,114,8
+    DEFPUSHBUTTON   "OK",IDOK,113,41,50,14,WS_GROUP
+END
+
+IDD_MFC_SUDOKU_TEST2_DIALOG DIALOGEX 0, 0, 354, 327
+STYLE DS_SETFONT | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "数独アシスト"
+FONT 9, "MS UI Gothic", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,209,306,50,14
+    PUSHBUTTON      "キャンセル",IDCANCEL,285,306,50,14
+    CTEXT           "数独アシスト",IDC_STATIC,118,7,91,8
+    PUSHBUTTON      "",IDC_BUTTON11,14,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON12,25,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON13,35,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON14,47,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON15,58,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON16,69,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON17,81,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON18,91,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON19,102,41,12,14
+    PUSHBUTTON      "",IDC_BUTTON21,14,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON22,25,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON23,35,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON24,47,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON25,58,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON26,69,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON27,81,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON28,91,53,12,14
+    PUSHBUTTON      "",IDC_BUTTON29,102,53,12,14
+    PUSHBUTTON      "1",IDC_BUTTON_No1,7,161,12,14
+    PUSHBUTTON      "",IDC_BUTTON31,14,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON32,25,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON33,35,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON34,47,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON35,58,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON36,69,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON37,81,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON38,91,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON39,102,65,12,14
+    PUSHBUTTON      "",IDC_BUTTON41,14,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON42,25,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON43,35,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON44,47,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON45,58,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON46,69,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON47,81,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON48,91,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON49,102,79,12,14
+    PUSHBUTTON      "",IDC_BUTTON51,14,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON52,25,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON53,35,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON54,47,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON55,58,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON56,69,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON57,81,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON58,91,92,12,14
+    PUSHBUTTON      "",IDC_BUTTON59,102,91,12,14
+    PUSHBUTTON      "",IDC_BUTTON61,14,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON62,25,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON63,35,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON64,47,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON65,58,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON66,69,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON67,81,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON68,91,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON69,102,103,12,14
+    PUSHBUTTON      "",IDC_BUTTON71,14,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON72,25,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON73,35,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON74,47,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON75,58,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON76,69,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON77,81,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON78,91,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON79,102,117,12,14
+    PUSHBUTTON      "",IDC_BUTTON81,14,129,12,14
+    PUSHBUTTON      "",IDC_BUTTON82,25,129,12,14
+    PUSHBUTTON      "",IDC_BUTTON83,35,129,12,14
+    PUSHBUTTON      "",IDC_BUTTON84,47,130,12,14
+    PUSHBUTTON      "",IDC_BUTTON85,58,130,12,14
+    PUSHBUTTON      "",IDC_BUTTON86,69,130,12,14
+    PUSHBUTTON      "",IDC_BUTTON87,81,130,12,14
+    PUSHBUTTON      "",IDC_BUTTON88,91,130,12,14
+    PUSHBUTTON      "",IDC_BUTTON89,102,130,12,14
+    PUSHBUTTON      "",IDC_BUTTON91,14,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON92,25,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON93,35,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON94,47,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON95,58,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON96,69,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON97,81,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON98,91,142,12,14
+    PUSHBUTTON      "",IDC_BUTTON99,102,142,12,14
+    PUSHBUTTON      "2",IDC_BUTTON_No2,19,161,12,14
+    PUSHBUTTON      "3",IDC_BUTTON_No3,31,161,12,14
+    PUSHBUTTON      "4",IDC_BUTTON_No4,43,161,12,14
+    PUSHBUTTON      "5",IDC_BUTTON_No5,55,161,12,14
+    PUSHBUTTON      "6",IDC_BUTTON_No6,67,161,12,14
+    PUSHBUTTON      "7",IDC_BUTTON_No7,79,161,12,14
+    PUSHBUTTON      "8",IDC_BUTTON_No8,91,161,12,14
+    PUSHBUTTON      "9",IDC_BUTTON_No9,102,161,12,14
+    CTEXT           "",IDC_STATIC11,121,41,10,13,WS_BORDER
+    PUSHBUTTON      "数独表を反映",IDC_BUTTON_reflect,27,198,67,14
+    CTEXT           "",IDC_STATIC12,131,41,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC13,141,41,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC14,153,41,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC15,163,41,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC16,174,41,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC17,185,41,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC18,195,41,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC19,205,41,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC21,121,53,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC22,131,53,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC23,141,53,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC24,153,53,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC25,163,53,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC26,174,53,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC27,185,53,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC28,195,53,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC29,205,53,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC31,121,65,10,12,WS_BORDER
+    CTEXT           "",IDC_STATIC32,131,65,11,12,WS_BORDER
+    CTEXT           "",IDC_STATIC33,141,65,11,12,WS_BORDER
+    CTEXT           "",IDC_STATIC34,153,65,10,12,WS_BORDER
+    CTEXT           "",IDC_STATIC35,163,65,12,12,WS_BORDER
+    CTEXT           "",IDC_STATIC36,174,65,10,12,WS_BORDER
+    CTEXT           "",IDC_STATIC37,185,65,11,12,WS_BORDER
+    CTEXT           "",IDC_STATIC38,195,65,11,12,WS_BORDER
+    CTEXT           "",IDC_STATIC39,205,65,10,12,WS_BORDER
+    CTEXT           "",IDC_STATIC41,121,79,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC42,131,79,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC43,142,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC44,153,79,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC45,164,79,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC46,174,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC47,185,79,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC48,195,79,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC49,205,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC51,121,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC52,131,91,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC53,142,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC54,153,91,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC55,164,91,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC56,174,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC57,185,91,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC58,195,91,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC59,205,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC61,121,103,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC62,131,103,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC63,142,103,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC64,153,103,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC65,164,103,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC66,174,103,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC67,185,103,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC68,195,103,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC69,205,103,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC71,121,118,11,12,WS_BORDER
+    CTEXT           "",IDC_STATIC72,131,118,12,12,WS_BORDER
+    CTEXT           "",IDC_STATIC73,142,118,10,12,WS_BORDER
+    CTEXT           "",IDC_STATIC74,153,117,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC75,164,117,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC76,174,117,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC77,185,117,11,14,WS_BORDER
+    CTEXT           "",IDC_STATIC78,195,117,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC79,205,117,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC81,121,129,11,14,WS_BORDER
+    CTEXT           "",IDC_STATIC82,131,129,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC83,142,129,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC84,153,129,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC85,164,129,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC86,174,129,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC87,185,130,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC88,195,130,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC89,205,129,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC91,121,141,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC92,131,141,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC93,142,141,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC94,153,141,12,13,WS_BORDER
+    CTEXT           "",IDC_STATIC95,164,141,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC96,174,141,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC97,185,141,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC98,195,141,11,13,WS_BORDER
+    CTEXT           "",IDC_STATIC99,205,141,10,13,WS_BORDER
+    CTEXT           "数独ボタン",IDC_STATIC,39,32,60,8
+    CTEXT           "数独表",IDC_STATIC,121,29,91,8
+    CTEXT           "特徴マップ",IDC_STATIC,222,30,91,8
+    CTEXT           "数独表を入力したらクリック",IDC_STATIC,19,189,82,8
+    CTEXT           "",IDC_STATIC_ANALYSIS11,228,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS12,237,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS13,246,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS14,258,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS15,267,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS16,276,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS17,288,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS18,297,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS19,306,40,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS21,228,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS22,237,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS23,246,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS24,258,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS25,267,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS26,276,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS27,288,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS28,297,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS29,306,52,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS31,228,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS32,237,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS33,246,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS34,258,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS35,267,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS36,276,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS37,288,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS38,297,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS39,306,64,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS41,228,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS42,237,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS43,246,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS44,258,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS45,267,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS46,276,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS47,288,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS48,297,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS49,306,79,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS51,228,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS52,237,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS53,246,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS54,258,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS55,267,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS56,276,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS57,288,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS58,297,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS59,306,91,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS61,228,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS62,237,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS63,246,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS64,258,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS65,267,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS66,276,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS67,288,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS68,297,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS69,306,104,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS71,228,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS72,237,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS73,246,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS74,258,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS75,267,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS76,276,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS77,288,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS78,297,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS79,306,118,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS81,228,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS82,237,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS83,246,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS84,258,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS85,267,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS86,276,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS87,288,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS88,297,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS89,306,130,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS91,228,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS92,237,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS93,246,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS94,258,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS95,267,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS96,276,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS97,288,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS98,297,142,10,13,WS_BORDER
+    CTEXT           "",IDC_STATIC_ANALYSIS99,306,142,10,13,WS_BORDER
+    CTEXT           "縦と横から特定のマスの値を調べる",IDC_STATIC,35,299,108,8
+    PUSHBUTTON      "1",IDC_BUTTON_ANALYSIS1,211,171,12,14
+    PUSHBUTTON      "2",IDC_BUTTON_ANALYSIS2,223,171,12,14
+    PUSHBUTTON      "3",IDC_BUTTON_ANALYSIS3,235,171,12,14
+    PUSHBUTTON      "4",IDC_BUTTON_ANALYSIS4,247,171,12,14
+    PUSHBUTTON      "5",IDC_BUTTON_ANALYSIS5,259,171,12,14
+    PUSHBUTTON      "6",IDC_BUTTON_ANALYSIS6,271,171,12,14
+    PUSHBUTTON      "7",IDC_BUTTON_ANALYSIS7,283,171,12,14
+    PUSHBUTTON      "8",IDC_BUTTON_ANALYSIS8,295,171,12,14
+    PUSHBUTTON      "9",IDC_BUTTON_ANALYSIS9,307,171,12,14
+    LTEXT           "1 解析する数を決めてください",IDC_STATIC,32,267,108,8
+    PUSHBUTTON      "デモの数独表を反映",IDC_BUTTON_demo_input,26,226,67,14
+    PUSHBUTTON      "",IDC_BUTTON_demo_input3,211,200,106,10
+    CTEXT           "1 解析する数は？",IDC_STATIC,141,175,56,8
+    LTEXT           "3 指定した数のみ表示",IDC_STATIC,143,201,66,8
+    LTEXT           "4 3*3エリアにあると表示",IDC_STATIC,143,212,66,8
+    PUSHBUTTON      "",IDC_BUTTON_demo_input4,212,211,106,10
+    LTEXT           "5 数字がある列と行は0",IDC_STATIC,143,225,64,8
+    PUSHBUTTON      "",IDC_BUTTON_demo_input5,214,223,106,10
+    LTEXT           "3*3に数字が１つだと確定",IDC_STATIC,143,237,69,8
+    PUSHBUTTON      "",IDC_BUTTON_demo_input6,214,236,106,10
+    CTEXT           "答　確定した数字があるかどうか",IDC_STATIC_RESULT_COMMENT,171,249,138,8
+    PUSHBUTTON      "",IDC_BUTTON_demo_input7,214,258,106,10
+    LTEXT           "数独表に記入",IDC_STATIC,154,260,44,8
+    LTEXT           "解析結果",IDC_STATIC_ANALYSIS_PERCENT,189,29,31,8
+    PUSHBUTTON      "",IDC_BUTTON_demo_input8,214,271,106,10
+    PUSHBUTTON      "",IDC_BUTTON_demo_input10,215,293,106,10
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041104B0"
+        BEGIN
+            VALUE "CompanyName", "TODO: <会社名>"
+            VALUE "FileDescription", "MFC_SUDOKU_test2"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "MFC_SUDOKU_test2.exe"
+            VALUE "LegalCopyright", "TODO: (C) <会社名>.  All rights reserved."
+            VALUE "OriginalFilename", "MFC_SUDOKU_test2.exe"
+            VALUE "ProductName", "TODO: <製品名>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x411, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 55
+    END
+
+    IDD_MFC_SUDOKU_TEST2_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 347
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 320
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_MFC_SUDOKU_TEST2_DIALOG AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_ABOUTBOX            "MFC_SUDOKU_test2について(&A)..."
+END
+
+#endif    // 日本語 (日本) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)
+LANGUAGE 17, 1
+#include "res\MFCSUDOKUtest2.rc2"  // Microsoft Visual C++ 鬯ｮ・｣雎郁ｲｻ・ｽ・ｼ陞滂ｽｲ繝ｻ・ｽ繝ｻ・ｽ郢晢ｽｻ繝ｻ・･鬯ｮ・ｯ隶灘･・ｽｽ・ｻ髦ｮ蜊搾ｽｧ鬩搾ｽｵ繝ｻ・ｲ髯晢ｽｶ隴擾ｽｴ繝ｻ繝ｻ・ｹ譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｨ鬯ｯ・ｯ繝ｻ・ｮ郢晢ｽｻ繝ｻ・ｮ鬩幢ｽ｢隴趣ｽ｢繝ｻ・ｽ繝ｻ・ｻ驛｢譎｢・ｽ・ｻ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｹ郢晢ｽｻ繝ｻ・ｧ鬮ｯ貅ｷ萓帙・・ｨ繝ｻ・ｯ鬮ｯ讖ｸ・ｽ・ｺ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｪ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｽ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｼ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｹ
+#include "l.JPN\afxres.rc"      // 鬯ｮ・ｫ繝ｻ・ｶ髴難ｽ｣陋滂ｽ｡繝ｻ・ｶ隲帷ｿｫ繝ｻ郢晢ｽｻ繝ｻ・ｺ鬮ｫ・ｰ髮具ｽｻ繝ｻ・ｽ繝ｻ・ｶ鬩搾ｽｵ繝ｻ・ｺ髫ｲ・ｷ陋ｹ繝ｻ・ｽ・ｽ繝ｻ・ｹ髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢髫ｴ蠑ｱ繝ｻ繝ｻ・ｺ繝ｻ・｢鬩幢ｽ｢隴趣ｽ｢繝ｻ・ｽ繝ｻ・ｻ鬯ｩ蟷｢・ｽ・｢髫ｴ蜿厄ｽｨ雋ｻ・ｽ・ｺ郢ｧ謇假ｽｽ・ｾ髮懶ｽ｣繝ｻ・ｽ繝ｻ・ｦ鬯ｩ蟷｢・ｽ・｢髫ｴ謫ｾ・ｽ・ｴ驛｢譎｢・ｽ・ｻ
+#if !defined(_AFXDLL)
+#include  "l.JPN\afxribbon.rc"   // MFC 鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｪ鬯ｩ蟷｢・ｽ・｢髫ｴ蠑ｱ繝ｻ鬲・ｽｵ郢晢ｽｻ髮懶ｽ｣繝ｻ・ｽ繝ｻ・ｦ鬯ｩ謳ｾ・ｽ・ｵ郢晢ｽｻ繝ｻ・ｺ鬯ｩ諤憺●繝ｻ・ｽ繝ｻ・ｫ驛｢譎｢・ｽ・ｻ鬮｢・ｧ繝ｻ・ｲ郢晢ｽｻ繝ｻ・ｸ郢晢ｽｻ繝ｻ・ｺ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｳ鬯ｩ蟷｢・ｽ・｢髫ｴ荳ｻ繝ｻ隶捺ｺ倥・陷ｿ蜴・ｽｽ・ｺ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｹ髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｼ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｫ 鬯ｩ蟷｢・ｽ・｢髫ｴ蟇ゅ・郢晢ｽｻ鬩幢ｽ｢隴趣ｽ｢繝ｻ・ｽ繝ｻ・ｻ 鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｪ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｽ鬯ｩ蟷｢・ｽ・｢髫ｴ雜｣・ｽ・｢郢晢ｽｻ繝ｻ・ｽ郢晢ｽｻ繝ｻ・ｼ鬯ｩ蟷｢・ｽ・｢郢晢ｽｻ繝ｻ・ｧ驛｢譎｢・ｽ・ｻ郢晢ｽｻ繝ｻ・ｹ
+#endif
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

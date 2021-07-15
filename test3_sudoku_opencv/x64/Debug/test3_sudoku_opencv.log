@@ -1,0 +1,3 @@
+﻿  test3_sudoku_opencv.cpp
+test3_sudoku_opencv.obj : error LNK2005: "class cv::Mat __cdecl make_sudoku_image(int)" (?make_sudoku_image@@YA?AVMat@cv@@H@Z) は既に sudoku_3N_.obj で定義されています。
+C:\Users\Taso\source\repos\test2_sudoku_\x64\Debug\test3_sudoku_opencv.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。

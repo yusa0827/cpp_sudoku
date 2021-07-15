@@ -1,0 +1,4 @@
+// ヒント ファイルは、Visual Studio IDE が Visual C++ 識別子を解釈するのに役立ちます
+// 関数およびマクロの名前などです。
+// 詳細については次を参照してください https://go.microsoft.com/fwlink/?linkid=865984
+#define CV_ENUM_FLAGS(EnumType) __CV_ENUM_FLAGS_LOGICAL_NOT (EnumType) __CV_ENUM_FLAGS_LOGICAL_EQ (EnumType, int) __CV_ENUM_FLAGS_LOGICAL_NOT_EQ (EnumType, int) __CV_ENUM_FLAGS_BITWISE_NOT (EnumType) __CV_ENUM_FLAGS_BITWISE_OR (EnumType, EnumType, EnumType) __CV_ENUM_FLAGS_BITWISE_AND (EnumType, EnumType, EnumType) __CV_ENUM_FLAGS_BITWISE_XOR (EnumType, EnumType, EnumType) __CV_ENUM_FLAGS_BITWISE_OR_EQ (EnumType, EnumType) __CV_ENUM_FLAGS_BITWISE_AND_EQ (EnumType, EnumType) __CV_ENUM_FLAGS_BITWISE_XOR_EQ (EnumType, EnumType)
